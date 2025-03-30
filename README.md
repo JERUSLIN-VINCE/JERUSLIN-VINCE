@@ -23,4 +23,4 @@ Computer Science Engineering
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Jeruslinvince?theme=dark&font=Anek%20Tamil&ext=contest)](https://leetcode.com/Jeruslinvince/)
 
-[![Jeruslinvince github activity graph]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JERUSLIN-VINCE&bg_color=121212&color=eeecec&line=9e4c98&point=24b7db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))](https://github.com/JERUSLIN-VINCE/LeetCode)
+[![Jeruslinvince github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JERUSLIN-VINCE&bg_color=121212&color=eeecec&line=9e4c98&point=24b7db&area=true&hide_border=true)](https://github.com/JERUSLIN-VINCE/LeetCode)
